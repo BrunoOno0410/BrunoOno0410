@@ -3,7 +3,7 @@
 Olá, sou Bruno Giordano Ono 🇧🇷<br>
 Hello, I'm Bruno Giordano Ono 🇺🇸<br><br>
 
-✏️ Security Analist - Computer Engineer<br>
+✏️ Mobile Security Analist - Computer Engineering<br>
 🌱 I'm currently learning Cyber Security and Blockchain<br>
 
 ### 🌐 Contact me:
